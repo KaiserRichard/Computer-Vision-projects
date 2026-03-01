@@ -1,4 +1,23 @@
+# Python & Environment
 __pycache__/
+*.pyc
+venv/
+.env/
+.env
+
+# Editor & OS files
+.vscode/
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Deep Learning Data & Weights
+data/
+*.pth
+*.pt
+runs/
+logs/__pycache__/
 *.pyc
 *.pth
 *.pt
